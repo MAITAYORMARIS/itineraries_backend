@@ -3,7 +3,7 @@
         {
                 "city_id": "64978146ce56f1a336e9bfe2",
                 // "CityName": "Mexico City",
-                "name": "nombre del itineario",
+                "itineraryName": "nombre del itineario",
                 "collaborator": "Nombre de la persona que lo publico",
                 "profilePic": "foto de la persona que lo publico",
                 "price": "del 1 al 5",
@@ -18,91 +18,130 @@
         {
             "city_id": "6498d990931a59b9c4c80ab6",
             // "name": "Buenos Aires",
+            "itineraryName": "nombre del itineario",
+                "collaborator": "Nombre de la persona que lo publico",
+                "profilePic": "foto de la persona que lo publico",
+                "price": "del 1 al 5",
+                // el precio no va entre comillas
+                "duration": "tiempo en horas",
+                "hashtags": "#",
+                "likes": 0,
+                "pictureUno": "",
+                "pictureDos": "",
+                "pictureTres": ""
             
         },
         {
             "city_id": "6498de3c931a59b9c4c80ab7",
             // "name": "The Asuncion",
+            "itineraryName": "nombre del itineario",
+                "collaborator": "Nombre de la persona que lo publico",
+                "profilePic": "foto de la persona que lo publico",
+                "price": "del 1 al 5",
+                // el precio no va entre comillas
+                "duration": "tiempo en horas",
+                "hashtags": "#",
+                "likes": 0,
+                "pictureUno": "",
+                "pictureDos": "",
+                "pictureTres": ""
         },
         {
             "city_id": "6498e0f4931a59b9c4c80ab8",
             // "name": "Hong Kong",
+            "itineraryName": "nombre del itineario",
+                "collaborator": "Nombre de la persona que lo publico",
+                "profilePic": "foto de la persona que lo publico",
+                "price": "del 1 al 5",
+                // el precio no va entre comillas
+                "duration": "tiempo en horas",
+                "hashtags": "#",
+                "likes": 0,
+                "pictureUno": "",
+                "pictureDos": "",
+                "pictureTres": ""
             
         },
         {
             "city_id": "6498e2ab931a59b9c4c80ab9",
             "name": "Ibiza",
+            "itineraryName": "nombre del itineario",
+                "collaborator": "Nombre de la persona que lo publico",
+                "profilePic": "foto de la persona que lo publico",
+                "price": "del 1 al 5",
+                // el precio no va entre comillas
+                "duration": "tiempo en horas",
+                "hashtags": "#",
+                "likes": 0,
+                "pictureUno": "",
+                "pictureDos": "",
+                "pictureTres": ""
             
         },
         {
             "city_id": "6498e442931a59b9c4c80aba",
-            "name": "Agra",
-            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/INDIA%2Fgalery%2F2cb87f7f-af91-4ff2-8387-8955eb519dc3.jpg?alt=media&token=45b497f9-3aa9-4226-96c0-42367f93b277",
-            "country": "Republic of India",
-            "language":"Hindi",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/INDIA%2Ftaj-mahal.jpg?alt=media&token=391ddf49-ad31-4b30-bd84-3a59bb1de703",
-            "info": "Come to know this historic city and visit the most famous mausoleum in the world: The Taj Mahal",
-            "phrase": "Get to know Agra: India",
-            "region": "Asia",
-            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/INDIA%2Fgalery%2FgalDos.jpg?alt=media&token=c9ce151d-47bb-4dbd-b4e2-a6aacbc8c9d5",
-            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/INDIA%2Fgalery%2FgalTres.jpg?alt=media&token=7d60e645-b6d0-46eb-9cbf-135bcbfb0f90",
-            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/INDIA%2Fgalery%2FgalUno.jpg?alt=media&token=82aacfb6-816f-4994-a1d8-fcc6361d5734"
+            // "name": "Agra",
+            "itineraryName": "nombre del itineario",
+            "collaborator": "Nombre de la persona que lo publico",
+            "profilePic": "foto de la persona que lo publico",
+            "price": "del 1 al 5",
+            // el precio no va entre comillas
+            "duration": "tiempo en horas",
+            "hashtags": "#",
+            "likes": 0,
+            "pictureUno": "",
+            "pictureDos": "",
+            "pictureTres": ""
         },
         {
             "city_id":"649a0c66bcdfa1ab076e17b7",
-            "name": "Madrid",
-            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MADRID%2Fgalery%2F0969b4eb-43de-4573-9002-ddb635be0653.jpg?alt=media&token=a01960e8-4b30-4e86-8e7d-1d4c2b7cac69",
-            "country": "Spain",
-            "language": "Spanish",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MADRID%2Fmadrid.jpg?alt=media&token=47758440-8656-4b39-a970-1cf2a3390e9b",
-            "info": "Come and discover one of the most populated cities in Europe. Madrid is an influential cultural center, where you can enjoy impressive architectural tours and museum visits. Do not forget that your tour will be better tasting Spanish food and wines.",
-            "phrase": "The fairy tale capital of Spain",
-            "region": "Europe",
-            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MADRID%2Fgalery%2FgalUno.jpg?alt=media&token=c89a1404-13e0-4f78-be3e-668f202d5350",
-            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MADRID%2Fgalery%2FgalDos.jpg?alt=media&token=e8244d02-6925-441f-9d83-29ebfe434f23",
-            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MADRID%2Fgalery%2Fgaltres.jpg?alt=media&token=f2723a96-4110-4f74-8436-e04ec058020d"
+            // "name": "Madrid",
+            "itineraryName": "nombre del itineario",
+                "collaborator": "Nombre de la persona que lo publico",
+                "profilePic": "foto de la persona que lo publico",
+                "price": "del 1 al 5",
+                // el precio no va entre comillas
+                "duration": "tiempo en horas",
+                "hashtags": "#",
+                "likes": 0,
+                "pictureUno": "",
+                "pictureDos": "",
+                "pictureTres": ""
         },
         {
             "city_id": "649a0cedbcdfa1ab076e17b8",
-            "name": "Male",
-            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MALDIVES%2Fgalery%2F76d98562-14ce-412b-9fa3-e786b59e70a8.jpg?alt=media&token=e44dd6ea-f9e3-4482-b63a-619a9dc5ee50",
-            "country": "Republic of the Maldives",
-            "language":"Dhivehi",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MALDIVES%2FMaldives.jpg?alt=media&token=33674e33-ffa3-4bb1-a855-96604d721178",
-            "info": "Come and enjoy the sun and the paradisiacal view on the beaches of Malé. Sign up for underwater photo sessions and be sure to try its culinary delights in the local markets where you will find fresh products",
-            "phrase": "Male, the Soul of the Maldives",
-            "region": "Asia",
-            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MALDIVES%2Fgalery%2FgalUno.jpg?alt=media&token=ac770f0b-9164-409e-9e69-401fe01634c2",
-            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MALDIVES%2Fgalery%2FgalDps.jpg?alt=media&token=3150fe3c-a937-4f48-b037-680dcba507d7",
-            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MALDIVES%2Fgalery%2FgalTres.jpg?alt=media&token=90ca8ebe-ada8-458f-80af-c785f6877d83"
+            // "name": "Male",
+            "itineraryName": "nombre del itineario",
+            "collaborator": "Nombre de la persona que lo publico",
+            "profilePic": "foto de la persona que lo publico",
+            "price": "del 1 al 5",
+            // el precio no va entre comillas
+            "duration": "tiempo en horas",
+            "hashtags": "#",
+            "likes": 0,
+            "pictureUno": "",
+            "pictureDos": "",
+            "pictureTres": ""
         },
         {
             "city_id": "649a110cbcdfa1ab076e17b9",
-            "name": "Munich",
-            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MUNICH%2Fgalery%2F3169f8f2-9011-4543-8741-6cd9e2ca0118.jpg?alt=media&token=55e755a4-fffd-4ee0-aaa5-01ed2bde9be6",
-            "country": "Federal Republic of Germany",
-            "language":"German",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MUNICH%2Fmunich.jpg?alt=media&token=cf1cdede-2d14-41c3-b867-99961d4b52e3",
-            "info": "Explore Munich and let yourself be carried away by its Bavarian charm. Explore its monuments and museums with high historical value. If you enjoy a beer, you can't miss visiting Hofbräuhaus",
-            "phrase": "Munich likes you: Germany",
-            "region": "Europe",
-            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MUNICH%2Fgalery%2FgalTres.png?alt=media&token=7464c297-f141-4372-a4c3-2cb651466917",
-            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MUNICH%2Fgalery%2FgalDos.jpg?alt=media&token=899148e1-46ab-4305-8508-b2428f2aceb1",
-            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MUNICH%2Fgalery%2FgalUno.jpg?alt=media&token=2842351f-050b-4cee-9b76-b14f253370e2"
+            // "name": "Munich",
+            "itineraryName": "nombre del itineario",
+                "collaborator": "Nombre de la persona que lo publico",
+                "profilePic": "foto de la persona que lo publico",
+                "price": "del 1 al 5",
+                // el precio no va entre comillas
+                "duration": "tiempo en horas",
+                "hashtags": "#",
+                "likes": 0,
+                "pictureUno": "",
+                "pictureDos": "",
+                "pictureTres": ""
         },
         {
             "city_id": "649a137ebcdfa1ab076e17ba",
             "name": "Paris",
-            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/PARIS%2Fgalery%2Fc0c54d51-8208-4a49-84bf-35c0c2ee7806.jpg?alt=media&token=eadf90ff-8c93-4dc4-80f2-7d6db2259b8b",
-            "country": "French Republic",
-            "language":"French",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/PARIS%2Fparis.jpg?alt=media&token=85839270-3709-45d4-862a-4f053ec08c9f",
-            "info": "Get to know the most visited tourist destination in the world. Paris is one of the most important cities in the field of culture, gastronomy, fashion and luxury. Come and see its large stone and wrought iron buildings, its cozy cafes and the curves of the Seine bank are absolutely cinematic",
-            "phrase": "City of Light in France",
-            "region": "Europe",
-            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/PARIS%2Fgalery%2FgalDps.jpg?alt=media&token=28ec6d24-cba9-4d8a-9662-1e6dba44ccb9",
-            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/PARIS%2Fgalery%2FgalTres.jpeg?alt=media&token=d596c29f-1f89-43bf-8932-a44eff8d0710",
-            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/PARIS%2Fgalery%2FgalUno.jpg?alt=media&token=3f776c3a-f860-4d8e-b34a-3c63c941d04a"
+           
         },
         {
             "city_id": "",
