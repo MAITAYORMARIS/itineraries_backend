@@ -2,12 +2,10 @@
     "dataItinearies": [
         {
                 "city_id": "64978146ce56f1a336e9bfe2",
-                // "CityName": "Mexico City",
-                "itineraryName": "nombre del itineario",
+                "name": "nombre del itineario",
                 "collaborator": "Nombre de la persona que lo publico",
                 "profilePic": "foto de la persona que lo publico",
                 "price": "del 1 al 5",
-                // el precio no va entre comillas
                 "duration": "tiempo en horas ",
                 "hashtags": "#",
                 "likes": 0,
@@ -18,12 +16,12 @@
         },
         {
             "city_id": "6498d990931a59b9c4c80ab6",
-            // // "name": "Buenos Aires",
-            "itineraryName": "nombre del itineario",
+           
+            "name": "nombre del itineario",
                 "collaborator": "Nombre de la persona que lo publico",
                 "profilePic": "foto de la persona que lo publico",
                 "price": "del 1 al 5",
-                // el precio no va entre comillas
+            
                 "duration": "tiempo en horas",
                 "hashtags": "#",
                 "likes": 0,
@@ -35,12 +33,12 @@
         },
         {
             "city_id": "6498de3c931a59b9c4c80ab7",
-            // // "name": "The Asuncion",
-            "itineraryName": "nombre del itineario",
+           
+            "name": "nombre del itineario",
                 "collaborator": "Nombre de la persona que lo publico",
                 "profilePic": "foto de la persona que lo publico",
                 "price": "del 1 al 5",
-                // el precio no va entre comillas
+                
                 "duration": "tiempo en horas",
                 "hashtags": "#",
                 "likes": 0,
@@ -51,12 +49,12 @@
         },
         {
             "city_id": "6498e0f4931a59b9c4c80ab8",
-            // // "name": "Hong Kong",
-            "itineraryName": "nombre del itineario",
+           
+            "name": "nombre del itineario",
                 "collaborator": "Nombre de la persona que lo publico",
                 "profilePic": "foto de la persona que lo publico",
                 "price": "del 1 al 5",
-                // el precio no va entre comillas
+           
                 "duration": "tiempo en horas",
                 "hashtags": "#",
                 "likes": 0,
@@ -68,12 +66,12 @@
         },
         {
             "city_id": "6498e2ab931a59b9c4c80ab9",
-            // "name": "Ibiza",
-            "itineraryName": "nombre del itineario",
+           
+            "name": "nombre del itineario",
                 "collaborator": "Nombre de la persona que lo publico",
                 "profilePic": "foto de la persona que lo publico",
                 "price": "del 1 al 5",
-                // el precio no va entre comillas
+              
                 "duration": "tiempo en horas",
                 "hashtags": "#",
                 "likes": 0,
@@ -85,12 +83,12 @@
         },
         {
             "city_id": "6498e442931a59b9c4c80aba",
-            // // "name": "Agra",
-            "itineraryName": "nombre del itineario",
+            
+            "name": "nombre del itineario",
             "collaborator": "Nombre de la persona que lo publico",
             "profilePic": "foto de la persona que lo publico",
             "price": "del 1 al 5",
-            // el precio no va entre comillas
+          
             "duration": "tiempo en horas",
             "hashtags": "#",
             "likes": 0,
@@ -101,12 +99,12 @@
         },
         {
             "city_id":"649a0c66bcdfa1ab076e17b7",
-            // // "name": "Madrid",
-            "itineraryName": "nombre del itineario",
+          
+            "name": "nombre del itineario",
                 "collaborator": "Nombre de la persona que lo publico",
                 "profilePic": "foto de la persona que lo publico",
                 "price": "del 1 al 5",
-                // el precio no va entre comillas
+               
                 "duration": "tiempo en horas",
                 "hashtags": "#",
                 "likes": 0,
@@ -117,12 +115,12 @@
         },
         {
             "city_id": "649a0cedbcdfa1ab076e17b8",
-            // // "name": "Male",
-            "itineraryName": "nombre del itineario",
+           
+            "name": "nombre del itineario",
             "collaborator": "Nombre de la persona que lo publico",
             "profilePic": "foto de la persona que lo publico",
             "price": "del 1 al 5",
-            // el precio no va entre comillas
+         
             "duration": "tiempo en horas",
             "hashtags": "#",
             "likes": 0,
@@ -133,12 +131,12 @@
         },
         {
             "city_id": "649a110cbcdfa1ab076e17b9",
-            // // "name": "Munich",
-            "itineraryName": "nombre del itineario",
+        
+            "name": "nombre del itineario",
                 "collaborator": "Nombre de la persona que lo publico",
                 "profilePic": "foto de la persona que lo publico",
                 "price": "del 1 al 5",
-                // el precio no va entre comillas
+                
                 "duration": "tiempo en horas",
                 "hashtags": "#",
                 "likes": 0,
@@ -149,12 +147,12 @@
         },
         {
             "city_id": "649a137ebcdfa1ab076e17ba",
-            // "name": "Paris",
-            "itineraryName": "nombre del itineario",
+           
+            "name": "nombre del itineario",
             "collaborator": "Nombre de la persona que lo publico",
             "profilePic": "foto de la persona que lo publico",
             "price": "del 1 al 5",
-            // el precio no va entre comillas
+          
             "duration": "tiempo en horas",
             "hashtags": "#",
             "likes": 0,
@@ -167,12 +165,12 @@
         },
         {
             "city_id": "",
-            // // "name": "Bangkok",
-            "itineraryName": "nombre del itineario",
+            
+            "name": "nombre del itineario",
                 "collaborator": "Nombre de la persona que lo publico",
                 "profilePic": "foto de la persona que lo publico",
                 "price": "del 1 al 5",
-                // el precio no va entre comillas
+             
                 "duration": "tiempo en horas",
                 "hashtags": "#",
                 "likes": 0,
@@ -183,12 +181,12 @@
         },
         {
             "city_id": "",
-            // // "name": "Bariloche",
-            "itineraryName": "nombre del itineario",
+            
+            "name": "nombre del itineario",
                 "collaborator": "Nombre de la persona que lo publico",
                 "profilePic": "foto de la persona que lo publico",
                 "price": "del 1 al 5",
-                // el precio no va entre comillas
+               
                 "duration": "tiempo en horas",
                 "hashtags": "#",
                 "likes": 0,
@@ -199,12 +197,12 @@
         },
         {
             "city_id": "",
-            // // "name": "Bogota",
-            "itineraryName": "nombre del itineario",
+            
+            "name": "nombre del itineario",
             "collaborator": "Nombre de la persona que lo publico",
             "profilePic": "foto de la persona que lo publico",
             "price": "del 1 al 5",
-            // el precio no va entre comillas
+     
             "duration": "tiempo en horas",
             "hashtags": "#",
             "likes": 0,
@@ -215,12 +213,12 @@
         },
         {
             "city_id": "",
-            // // "name": "Bora Bora",
-            "itineraryName": "nombre del itineario",
+  
+            "name": "nombre del itineario",
             "collaborator": "Nombre de la persona que lo publico",
             "profilePic": "foto de la persona que lo publico",
             "price": "del 1 al 5",
-            // el precio no va entre comillas
+     
             "duration": "tiempo en horas",
             "hashtags": "#",
             "likes": 0,
@@ -231,12 +229,12 @@
         },
         {
             "city_id": "",
-            // // "name": "Cancun",
-            "itineraryName": "nombre del itineario",
+      
+            "name": "nombre del itineario",
             "collaborator": "Nombre de la persona que lo publico",
             "profilePic": "foto de la persona que lo publico",
             "price": "del 1 al 5",
-            // el precio no va entre comillas
+      
             "duration": "tiempo en horas",
             "hashtags": "#",
             "likes": 0,
@@ -247,12 +245,12 @@
         },
         {
             "city_id": "",
-            // // "name": "Cusco",
-            "itineraryName": "nombre del itineario",
+          
+            "name": "nombre del itineario",
                 "collaborator": "Nombre de la persona que lo publico",
                 "profilePic": "foto de la persona que lo publico",
                 "price": "del 1 al 5",
-                // el precio no va entre comillas
+        
                 "duration": "tiempo en horas",
                 "hashtags": "#",
                 "likes": 0,
@@ -263,12 +261,12 @@
         },
         { 
             "city_id": "", 
-            // // "name": "Sydney", 
-            "itineraryName": "nombre del itineario",
+       
+            "name": "nombre del itineario",
             "collaborator": "Nombre de la persona que lo publico",
             "profilePic": "foto de la persona que lo publico",
             "price": "del 1 al 5",
-            // el precio no va entre comillas
+           
             "duration": "tiempo en horas",
             "hashtags": "#",
             "likes": 0,
@@ -279,12 +277,12 @@
         },
         { 
             "city_id": "", 
-            // // "name": "Dubai", 
-            "itineraryName": "nombre del itineario",
+         
+            "name": "nombre del itineario",
                 "collaborator": "Nombre de la persona que lo publico",
                 "profilePic": "foto de la persona que lo publico",
                 "price": "del 1 al 5",
-                // el precio no va entre comillas
+              
                 "duration": "tiempo en horas",
                 "hashtags": "#",
                 "likes": 0,
@@ -295,12 +293,12 @@
             },
         { 
             "city_id": "", 
-            // // "name": "Santiago de Chile", 
-            "itineraryName": "nombre del itineario",
+    
+            "name": "nombre del itineario",
             "collaborator": "Nombre de la persona que lo publico",
             "profilePic": "foto de la persona que lo publico",
             "price": "del 1 al 5",
-            // el precio no va entre comillas
+    
             "duration": "tiempo en horas",
             "hashtags": "#",
             "likes": 0,
@@ -311,12 +309,12 @@
         },
         { 
             "city_id": "", 
-            // // "name": "Antananarivo", 
-            "itineraryName": "nombre del itineario",
+        
+            "name": "nombre del itineario",
             "collaborator": "Nombre de la persona que lo publico",
             "profilePic": "foto de la persona que lo publico",
             "price": "del 1 al 5",
-            // el precio no va entre comillas
+          
             "duration": "tiempo en horas",
             "hashtags": "#",
             "likes": 0,
@@ -328,12 +326,12 @@
         },
         { 
             "city_id": "", 
-            // "name": "Mónaco", 
-            "itineraryName": "nombre del itineario",
+           
+            "name": "nombre del itineario",
                 "collaborator": "Nombre de la persona que lo publico",
                 "profilePic": "foto de la persona que lo publico",
                 "price": "del 1 al 5",
-                // el precio no va entre comillas
+             
                 "duration": "tiempo en horas",
                 "hashtags": "#",
                 "likes": 0,
@@ -345,12 +343,12 @@
            
         { 
             "city_id": "", 
-            // "name": "Rio de Janeiro", 
-            "itineraryName": "nombre del itineario",
+        
+            "name": "nombre del itineario",
             "collaborator": "Nombre de la persona que lo publico",
             "profilePic": "foto de la persona que lo publico",
             "price": "del 1 al 5",
-            // el precio no va entre comillas
+          
             "duration": "tiempo en horas",
             "hashtags": "#",
             "likes": 0,
@@ -361,12 +359,12 @@
         },
         { 
             "city_id": "", 
-            // "name": "Singapore", 
-            "itineraryName": "nombre del itineario",
+       
+            "name": "nombre del itineario",
                 "collaborator": "Nombre de la persona que lo publico",
                 "profilePic": "foto de la persona que lo publico",
                 "price": "del 1 al 5",
-                // el precio no va entre comillas
+          
                 "duration": "tiempo en horas",
                 "hashtags": "#",
                 "likes": 0,
@@ -377,12 +375,12 @@
         },
         { 
             "city_id": "", 
-            // "name": "Zurich", 
-            "itineraryName": "nombre del itineario",
+      
+            "name": "nombre del itineario",
             "collaborator": "Nombre de la persona que lo publico",
             "profilePic": "foto de la persona que lo publico",
             "price": "del 1 al 5",
-            // el precio no va entre comillas
+           
             "duration": "tiempo en horas",
             "hashtags": "#",
             "likes": 0,
