@@ -2,7 +2,7 @@ const mongoose = require ('mongoose')
 
 const itinerariesSchema = new mongoose.Schema({
     
-    city_id:{type:String, required:true}, 
+    city_id:{type:mongoose.Schema.Types.ObjectId, required:true}, 
     name:{type:String, required:true},
     collaborator: {type:String, required:true},
     profilePic: {type:String, required:true},

@@ -24,6 +24,7 @@ const itinerariesControllers = {
             itinerary = await Itineraries.find({ _id: id })
         }
         catch (err) { error = err }
+        console.log(itinerary)
         res.json({
             response: error ? 'ERROR' : itinerary,
             success: error ? false : true,
@@ -148,7 +149,25 @@ const itinerariesControllers = {
 
     },
 
-    getItinerariesByCity: () => { }
+    getItinerariesByCity: async (req, res) => {
+        const id = req.params.id
+        let itineraries
+        let error = null
+
+        try {
+            itineraries = await Itineraries.find({ city_id: id })
+    
+        }
+        catch (err) { error = err }
+       console.log(itineraries)
+       console.log(error)
+        res.json({
+          
+            response: error ? 'ERROR' : {itineraries},
+            success: error ? false : true,
+            error: error
+        })
+    },
 }
 
 module.exports = itinerariesControllers;
