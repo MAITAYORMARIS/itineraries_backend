@@ -150,20 +150,18 @@ const itinerariesControllers = {
     },
 
     getItinerariesByCity: async (req, res) => {
-        const id = req.params.id
-        let itineraries
-        let error = null
+        const cityId = req.params.city_id;
+        let itineraries;
+        let error = null;
 
         try {
-            itineraries = await Itineraries.find({ city_id: id })
-    
+            itineraries = await Itineraries.find({ city_id: cityId })
         }
-        catch (err) { error = err }
-       console.log(itineraries)
-       console.log(error)
+        catch (err) { error = err}
+           
         res.json({
           
-            response: error ? 'ERROR' : {itineraries},
+            response: error ? 'ERROR EN LA CONSULTA' : {itineraries},
             success: error ? false : true,
             error: error
         })

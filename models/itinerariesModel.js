@@ -1,4 +1,5 @@
 const mongoose = require ('mongoose')
+// const SchemaTypes = require ('mongoose').Schema.Types
 
 const itinerariesSchema = new mongoose.Schema({
     

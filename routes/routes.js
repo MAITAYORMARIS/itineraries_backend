@@ -13,7 +13,7 @@ Router.route("/itineraries/:id")
 .delete(removeItinerary)
 .put(modifyItinerary)
 
-Router.route("/itineraries/:city_id")
+Router.route("/itineraries/cities/:city_id")
 .get(getItinerariesByCity)
 
 module.exports= Router;
