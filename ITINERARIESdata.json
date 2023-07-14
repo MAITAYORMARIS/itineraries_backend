@@ -1,0 +1,427 @@
+{
+    "dataItinearies": [
+        {
+                "city_id": "64978146ce56f1a336e9bfe2",
+                "name": "nombre del itineario",
+                "collaborator": "Nombre de la persona que lo publico",
+                "profilePic": "foto de la persona que lo publico",
+                "price": "del 1 al 5",
+                "duration": "tiempo en horas ",
+                "hashtags": "#",
+                "likes": 0,
+                "image": "",
+                "origen": "punto de partida",
+                "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+                "activities":"esto queda vacio"
+        },
+        {
+            "city_id": "6498d990931a59b9c4c80ab6",
+           
+            "name": "Day trip to Cerro Cathedral and Victoria Island and Arrayanes",
+                "collaborator": "Catalina Roman",
+                "profilePic": "foto de la persona que lo publico",
+                "price": 5,
+                "duration": "16 hours",
+                "Description":"",
+                "hashtags": "#Cathedral Hill,#montainlovers,#Bariloche",
+                "likes": 0,
+                "image": "",
+                "origen": "The centre of Bariloche.", 
+                "Transportation": "Transport by bus.",
+                "placesToVisit":["Nahuel Huapi Lake","Villa La Angostura","the Espejo (mirror)"],
+                "activities":"esto queda vacio"
+            
+        },
+        {
+            "city_id": "6498d990931a59b9c4c80ab6",
+           
+            "name": "Argentine Tango",
+                "collaborator": "Catalina Roman",
+                "profilePic": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/personas%2Fdescarga%20(1).jpg?alt=media&token=e25fca7c-497b-43c7-afca-583a7a824a1f",
+                "price": 5,
+                "duration": "12 hours",
+                "hashtags": "#Tango,#tourism,#travel",
+                "likes": 0,
+                "image": "",
+                "origen": "Metropolitan Cathedral",
+                "Transportation": "Transport by bus.",
+                "placesToVisit":["Church of del Pilar.","Recoleta Cementery","San Telmo neighborhood.Tanguerias"],
+                "activities":"esto queda vacio"
+        },
+        {
+            "city_id": "64a4d839cd1231e06c05854c", 
+           
+            "name": "Explore Rio de Janeiro",
+                "collaborator": "Silva Santos",
+                "profilePic": "foto de la persona que lo publico",
+                "price":5,  
+                "duration": "8 Hours",
+                "hashtags": "#copacabana,#brasil,#photography,#beach",
+                "likes": 0,
+                "image": "",
+                "origen": "hotel copacabana",
+                "Transportation": "Transport by bus.",
+                "placesToVisit":["Avenue in front of Copacabana beach.","Crist the redeemer Statue","The Metropolitan Cathedral of Saint Sebastian"],
+                "activities":"esto queda vacio"
+        },
+        {
+            "city_id": "64a4d839cd1231e06c05854c", 
+           
+            "name": "Explore Rio de Janeiro",
+                "collaborator": "Silva Santos",
+                "profilePic": "foto de la persona que lo publico",
+                "price":5,  
+                "duration": "12 Hours",
+                "hashtags": "#copacabana,#brasil,#photography,#beach",
+                "likes": 0,
+                "image": "",
+                "origen": "hotel copacabana",
+                "Transportation": "Transport by bus.",
+                "placesToVisit":["Avenue in front of Copacabana beach.","Crist the redeemer Statue","The Metropolitan Cathedral of Saint Sebastian"],
+                "activities":"esto queda vacio"
+        },
+        {
+            "city_id": "6498e0f4931a59b9c4c80ab8",
+
+            "name": "Full day tour to Angra dos Reis and Ilha Grande",
+                "collaborator": "Silva Santos",
+                "profilePic": "foto de la persona que lo publico",
+                "price": 5,
+                "duration": "12 hours",
+                "hashtags": "#sun,#beach,#copacabana",
+                "likes": 0,
+                "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/RIO%20DE%20JANEIRO%2FFotos%20itinerario%2FRio%20grande.jpg?alt=media&token=ad027d5d-ac0d-47a1-bdb4-2b884d4b3c14",
+                "origen": "Botafogo",
+                "Transportation": "Transport by bus.",
+                "placesToVisit":["Cais Turistico de Santa Luzia","Lagoa Azul, Angra Dos Reis", "Aracatibinha Beach,"],
+                "activities":"esto queda vacio"
+            
+        },
+        {
+            "city_id": "Rome",
+           
+            "name": "Full day of Florence",
+                "collaborator": "Di Marco Diego",
+                "profilePic": "foto de la persona que lo publico",
+                "price": 5,
+                "duration": "18 Hours",
+                "hashtags": "#Italy, #Florence,#Roma,#adventuretime",
+                "likes": 0,
+                "image": "",
+                "origen": "Fontana de Trevi",
+                "Transportation": "Transport by bus.",
+                "placesToVisit":["La Piazza dei Miracoli","el Mercato Nuovo", "El Palazzo Strozzi."],
+                "activities":"esto queda vacio"
+            
+        },
+        {
+            "city_id": "Rome",
+            
+            "name": "The Vatican Museums and Sistine Chapel",
+            "collaborator": "Di Marco Diego",
+            "profilePic": "foto de la persona que lo publico",
+            "price":  5,
+            "duration": "12 Hours",
+            "hashtags": "#Travel, #life, #Museum, ",
+            "likes": 0,
+            "image": "",
+            "origen": " The San Lorenzo Basilica,",
+            "placesToVisit":["The Pio Clementino Museum","the Gallery of Chandeliers", "the Gallery of Geographical Maps"],
+            "activities":"esto queda vacio"
+        },
+        { 
+            "city_id":"649a0c66bcdfa1ab076e17b7",
+          
+            "name": "nombre del itineario",
+                "collaborator": "Nombre de la persona que lo publico",
+                "profilePic": "foto de la persona que lo publico",
+                "price": "del 1 al 5",
+               
+                "duration": "tiempo en horas",
+                "hashtags": "#",
+                "likes": 0,
+                "image": "",
+                "origen": "punto de partida",
+                "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+                "activities":"esto queda vacio"
+        },
+        {
+            "city_id": "649a0cedbcdfa1ab076e17b8",
+           
+            "name": "nombre del itineario",
+            "collaborator": "Nombre de la persona que lo publico",
+            "profilePic": "foto de la persona que lo publico",
+            "price": "del 1 al 5",
+         
+            "duration": "tiempo en horas",
+            "hashtags": "#",
+            "likes": 0,
+            "image": "",
+            "origen": "punto de partida",
+            "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+            "activities":"esto queda vacio"
+        },
+        {
+            "city_id": "649a110cbcdfa1ab076e17b9",
+        
+            "name": "nombre del itineario",
+                "collaborator": "Nombre de la persona que lo publico",
+                "profilePic": "foto de la persona que lo publico",
+                "price": "del 1 al 5",
+                
+                "duration": "tiempo en horas",
+                "hashtags": "#",
+                "likes": 0,
+                "image": "",
+                "origen": "punto de partida",
+                "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+                "activities":"esto queda vacio"
+        },
+        {
+            "city_id": "649a137ebcdfa1ab076e17ba",
+           
+            "name": "nombre del itineario",
+            "collaborator": "Nombre de la persona que lo publico",
+            "profilePic": "foto de la persona que lo publico",
+            "price": "del 1 al 5",
+          
+            "duration": "tiempo en horas",
+            "hashtags": "#",
+            "likes": 0,
+            "image": "",
+            "origen": "punto de partida",
+            "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+            "activities":"esto queda vacio"
+
+           
+        },
+        {
+            "city_id": "",
+            
+            "name": "nombre del itineario",
+                "collaborator": "Nombre de la persona que lo publico",
+                "profilePic": "foto de la persona que lo publico",
+                "price": "del 1 al 5",
+             
+                "duration": "tiempo en horas",
+                "hashtags": "#",
+                "likes": 0,
+                 "image": "",
+                "origen": "punto de partida",
+                "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+                "activities":"esto queda vacio"
+        },
+        {
+            "city_id": "",
+            
+            "name": "nombre del itineario",
+                "collaborator": "Nombre de la persona que lo publico",
+                "profilePic": "foto de la persona que lo publico",
+                "price": "del 1 al 5",
+               
+                "duration": "tiempo en horas",
+                "hashtags": "#",
+                "likes": 0,
+                "image": "",
+                "origen": "punto de partida",
+                "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+                "activities":"esto queda vacio"
+        },
+        {
+            "city_id": "",
+            
+            "name": "nombre del itineario",
+            "collaborator": "Nombre de la persona que lo publico",
+            "profilePic": "foto de la persona que lo publico",
+            "price": "del 1 al 5",
+     
+            "duration": "tiempo en horas",
+            "hashtags": "#",
+            "likes": 0,
+            "image": "",
+                "origen": "punto de partida",
+                "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+                "activities":"esto queda vacio"
+        },
+        {
+            "city_id": "",
+  
+            "name": "nombre del itineario",
+            "collaborator": "Nombre de la persona que lo publico",
+            "profilePic": "foto de la persona que lo publico",
+            "price": "del 1 al 5",
+     
+            "duration": "tiempo en horas",
+            "hashtags": "#",
+            "likes": 0,
+            "image": "",
+            "origen": "punto de partida",
+            "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+            "activities":"esto queda vacio"
+        },
+        {
+            "city_id": "",
+      
+            "name": "nombre del itineario",
+            "collaborator": "Nombre de la persona que lo publico",
+            "profilePic": "foto de la persona que lo publico",
+            "price": "del 1 al 5",
+      
+            "duration": "tiempo en horas",
+            "hashtags": "#",
+            "likes": 0,
+            "image": "",
+            "origen": "punto de partida",
+            "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+            "activities":"esto queda vacio"
+        },
+        {
+            "city_id": "",
+          
+            "name": "nombre del itineario",
+                "collaborator": "Nombre de la persona que lo publico",
+                "profilePic": "foto de la persona que lo publico",
+                "price": "del 1 al 5",
+        
+                "duration": "tiempo en horas",
+                "hashtags": "#",
+                "likes": 0,
+                "image": "",
+                "origen": "punto de partida",
+                "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+                "activities":"esto queda vacio"
+        },
+        { 
+            "city_id": "", 
+       
+            "name": "nombre del itineario",
+            "collaborator": "Nombre de la persona que lo publico",
+            "profilePic": "foto de la persona que lo publico",
+            "price": "del 1 al 5",
+           
+            "duration": "tiempo en horas",
+            "hashtags": "#",
+            "likes": 0,
+            "image": "",
+            "origen": "punto de partida",
+            "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+            "activities":"esto queda vacio"
+        },
+        { 
+            "city_id": "", 
+         
+            "name": "nombre del itineario",
+                "collaborator": "Nombre de la persona que lo publico",
+                "profilePic": "foto de la persona que lo publico",
+                "price": "del 1 al 5",
+              
+                "duration": "tiempo en horas",
+                "hashtags": "#",
+                "likes": 0,
+                "image": "",
+                "origen": "punto de partida",
+                "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+                "activities":"esto queda vacio"
+            },
+        { 
+            "city_id": "", 
+    
+            "name": "nombre del itineario",
+            "collaborator": "Nombre de la persona que lo publico",
+            "profilePic": "foto de la persona que lo publico",
+            "price": "del 1 al 5",
+    
+            "duration": "tiempo en horas",
+            "hashtags": "#",
+            "likes": 0,
+            "image": "",
+            "origen": "punto de partida",
+            "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+            "activities":"esto queda vacio"
+        },
+        { 
+            "city_id": "", 
+        
+            "name": "nombre del itineario",
+            "collaborator": "Nombre de la persona que lo publico",
+            "profilePic": "foto de la persona que lo publico",
+            "price": "del 1 al 5",
+          
+            "duration": "tiempo en horas",
+            "hashtags": "#",
+            "likes": 0,
+            "image": "",
+            "origen": "punto de partida",
+            "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+            "activities":"esto queda vacio"
+           
+        },
+        { 
+            "city_id": "", 
+           
+            "name": "nombre del itineario",
+                "collaborator": "Nombre de la persona que lo publico",
+                "profilePic": "foto de la persona que lo publico",
+                "price": "del 1 al 5",
+             
+                "duration": "tiempo en horas",
+                "hashtags": "#",
+                "likes": 0,
+                "image": "",
+                "origen": "punto de partida",
+                "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+                "activities":"esto queda vacio"
+            },
+           
+        { 
+            "city_id": "", 
+        
+            "name": "nombre del itineario",
+            "collaborator": "Nombre de la persona que lo publico",
+            "profilePic": "foto de la persona que lo publico",
+            "price": "del 1 al 5",
+          
+            "duration": "tiempo en horas",
+            "hashtags": "#",
+            "likes": 0,
+            "image": "",
+            "origen": "punto de partida",
+            "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+            "activities":"esto queda vacio"
+        },
+        { 
+            "city_id": "", 
+       
+            "name": "nombre del itineario",
+                "collaborator": "Nombre de la persona que lo publico",
+                "profilePic": "foto de la persona que lo publico",
+                "price": "del 1 al 5",
+          
+                "duration": "tiempo en horas",
+                "hashtags": "#",
+                "likes": 0,
+                "image": "",
+                "origen": "punto de partida",
+                "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+                "activities":"esto queda vacio"
+        },
+        { 
+            "city_id": "", 
+      
+            "name": "nombre del itineario",
+            "collaborator": "Nombre de la persona que lo publico",
+            "profilePic": "foto de la persona que lo publico",
+            "price": "del 1 al 5",
+           
+            "duration": "tiempo en horas",
+            "hashtags": "#",
+            "likes": 0,
+            "image": "",
+            "origen": "punto de partida",
+            "placesToVisit":["lugar 1","lugar dos", "lugar Tres"],
+            "activities":"esto queda vacio"
+        }
+
+  
+    ]
+}
