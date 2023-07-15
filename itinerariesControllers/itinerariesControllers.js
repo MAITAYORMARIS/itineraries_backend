@@ -33,7 +33,7 @@ const itinerariesControllers = {
     },
 
     addItinerary: async (req, res) => {
-        const { city_id, name, collaborator, profilePic, price, duration, hashtags, likes, image, origen, placesToVisit, activities } = req.body.data
+        const { city_id, name, collaborator, profilePic, price, duration, description, hashtags, likes, image, origen, placesToVisit, activities } = req.body.data
 
         let itinerary
         let error = null
@@ -48,6 +48,7 @@ const itinerariesControllers = {
                     profilePic: profilePic,
                     price: price,
                     duration: duration,
+                    description:description,
                     hashtags: hashtags,
                     likes: likes,
                     image: image,
@@ -84,6 +85,7 @@ const itinerariesControllers = {
                         profilePic: itinerary.profilePic,
                         price: itinerary.price,
                         duration: itinerary.duration,
+                        description:itinerary.description,
                         hashtags: itinerary.hashtags,
                         likes: itinerary.likes,
                         image: itinerary.image,
