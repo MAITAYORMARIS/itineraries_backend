@@ -33,7 +33,7 @@ const itinerariesControllers = {
     },
 
     addItinerary: async (req, res) => {
-        const { city_id, name, collaborator, profilePic, price, duration, description, hashtags, likes, image, origen, placesToVisit, activities } = req.body.data
+        const { city_id, name, collaborator, profilePic, price, duration, description, hashtags, likes, image, origen, transportation,placesToVisit, activities } = req.body.data
 
         let itinerary
         let error = null
@@ -53,6 +53,7 @@ const itinerariesControllers = {
                     likes: likes,
                     image: image,
                     origen: origen,
+                    transportation: transportation,
                     placesToVisit: placesToVisit,
                     activities: activities
                 }).save()
@@ -90,6 +91,7 @@ const itinerariesControllers = {
                         likes: itinerary.likes,
                         image: itinerary.image,
                         origen: itinerary.origen,
+                        transportation: itinerary.transportation,
                         placesToVisit: itinerary.placesToVisit,
                         activities: itinerary.activities
                     }
@@ -149,6 +151,33 @@ const itinerariesControllers = {
             error: error
         })
 
+    },
+    removeManyItineraries: async (req, res) => {
+        const id = req.body.id
+        itinerariesDelete=[]
+        let error = []
+
+        for(let id of data){
+            try {
+                let itinerary
+               itinerary = await Itineraries.findOneAndDelete({ _id: id })
+                if (itinerary){
+                    itinerariesDelete.push(itinerary)
+                }else{
+                    error.push({
+                        id:id,
+                        error: "no se encontro el ID del itinerario a eliminar"
+                    })
+                }
+            } catch(err) {error.push(err)}
+        }
+       
+
+        res.json({
+            response: error.length > 0 && itinerariesDelete.length === 0 ? "ERROR" : itinerariesDelete,
+            success: error.length > 0 ? (itinerariesDelete.length > 0 ? "warning" : false) : true,
+            error: error
+        })
     },
 
     getItinerariesByCity: async (req, res) => {

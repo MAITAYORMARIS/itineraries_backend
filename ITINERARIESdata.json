@@ -1,21 +1,224 @@
 {
     "dataItinearies": [
         {
-            "city_id": "6498d990931a59b9c4c80ab6",
+            "city_id": "64a3666e954975e2a7ddd487",
             "name": "Day trip to Cerro Cathedral",
-                "collaborator": "Ana Alfonzo",
-                "profilePic": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/personas%2Fdescarga%20(2).jpg?alt=media&token=a5e46594-5575-4c18-95d9-19118a1753c7",
-                "price": 5,
-                "duration": "16 hours",
-                "description":"Discover the largest ski centre in the southern hemisphere with this day trip to Cerro Catedral. A must-see for all mountain lovers!",
-                "hashtags": "#Cathedral Hill,#montainlovers,#Bariloche",
-                "likes": 0,
-                "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/fotos%20sitios%2Fcerro%20catedral.jpg?alt=media&token=82a88c6d-2e54-44e5-b04d-4e9215c11c9e",
-                "origen": "The centre of Bariloche.", 
-                "transportation": "Transport by bus.",
-                "placesToVisit":["Nahuel Huapi Lake","Villa La Angostura","the Espejo (mirror)"],
-                "activities":"esto queda vacio"
-        }
+            "collaborator": "Ana Alfonzo",
+            "profilePic": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/personas%2Fdescarga%20(2).jpg?alt=media&token=a5e46594-5575-4c18-95d9-19118a1753c7",
+            "price": 5,
+            "duration": "16 hours",
+            "description": "Discover the largest ski centre in the southern hemisphere with this day trip to Cerro Catedral. A must-see for all mountain lovers!",
+            "hashtags": "#Cathedral Hill,#montainlovers,#Bariloche",
+            "likes": 0,
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/fotos%20sitios%2Fcerro%20catedral.jpg?alt=media&token=82a88c6d-2e54-44e5-b04d-4e9215c11c9e",
+            "origen": "The centre of Bariloche.",
+            "transportation": "Transport by bus.",
+            "placesToVisit": [
+                "Nahuel Huapi Lake",
+                "Villa La Angostura",
+                "The Espejo (mirror)"
+            ],
+            "activities": {}
+        },
+        {
+            "city_id": "6498d990931a59b9c4c80ab6",
+            "name": "Panoramic tour of Buenos Aires",
+            "collaborator": "Catalina Roman",
+            "profilePic": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/personas%2Fdescarga%20(1).jpg?alt=media&token=e25fca7c-497b-43c7-afca-583a7a824a1f",
+            "price": 3,
+            "duration": "6 hours",
+            "description": "On this bus tour, we'll explore every side of Buenos Aires, enjoying the main districts, avenues, and monuments of the city. The visit is the perfect introduction to the city of Tango.",
+            "hashtags": "#Tango,#tourism,#travel",
+            "likes": 0,
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/fotos%20sitios%2Fbuenos_aires.jpeg?alt=media&token=44a749ec-8563-4a40-b3fb-51dcb081e2d4",
+            "origen": "Metropolitan Cathedral",
+            "transportation": "Transport by bus",
+            "placesToVisit": [
+                "Pilar Church",
+                "Recoleta Cementery",
+                "San Telmo neighborhood.Tanguerias"
+            ],
+            "activities": {}
+        },
+        {
+            "city_id": "64a4d839cd1231e06c05854c",
+            "name": "Explore Rio de Janeiro",
+            "collaborator": "Silvia Santos",
+            "profilePic": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/personas%2Fdescarga%20(1).jpg?alt=media&token=e25fca7c-497b-43c7-afca-583a7a824a1f",
+            "price": 4,
+            "duration": "9 Hours",
+            "description": "Discover Rio de Janeiro with this complete tour of what is affectionately known as the <carioca city>. The Christ the Redeemer Statue, Sugarloaf Mountain and the Maracana stadium are just some of the places you will encounter on this fantastic tour!",
+            "hashtags": "#Copacabana,#Brasil,#Photography,#Beach",
+            "likes": 0,
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/fotos%20sitios%2F-Copacabana-en-Rio-de-Janeiro.jpg?alt=media&token=fe10ae4d-4a7e-48ef-be6d-379751de18e1",
+            "origen": "Hotel copacabana",
+            "transportation": "Transport by bus.",
+            "placesToVisit": [
+                "Avenue in front of Copacabana beach.",
+                "Crist the redeemer Statue",
+                "The Metropolitan Cathedral of Saint Sebastian"
+            ],
+            "activities": {}
+        },
+        {
+            "city_id": "64a4d839cd1231e06c05854c",
+            "name": "Full day tour to Angra dos Reis and Ilha Grande",
+            "collaborator": "Silvia Santos",
+            "profilePic": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/personas%2Fdescarga%20(1).jpg?alt=media&token=e25fca7c-497b-43c7-afca-583a7a824a1f",
+            "price": 5,
+            "duration": "6 hours",
+            "description": "Discover the Brazilian paradise of Angra dos Reis and enjoy bathing on its heavenly beaches. Take a wonderful boat ride in a traditional Brazilian boat around the islands of the bay and taste delicious local food.",
+            "hashtags": "#sun,#beach,#copacabana",
+            "likes": 0,
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/RIO%20DE%20JANEIRO%2FFotos%20itinerario%2FRio%20grande.jpg?alt=media&token=ad027d5d-ac0d-47a1-bdb4-2b884d4b3c14",
+            "origen": "Botafogo",
+            "transportation": "Transport by bus.",
+            "placesToVisit": [
+                "Cais Turistico de Santa Luzia",
+                "Lagoa Azul, Angra Dos Reis",
+                "Aracatibinha Beach,"
+            ],
+            "activities": {}
+        },
+        {
+            "city_id": "64b31b7982ab7a3c54de5af1",
+            "name": "Full day of Florence",
+            "collaborator": "Di Marco Diego",
+            "profilePic": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/personas%2FDi%20marco.jpg?alt=media&token=d9901475-3ea7-481e-97c2-3739515903ce",
+            "price": 5,
+            "duration": "12 Hours",
+            "description": "The historic centre of Florence, capital of Tuscany, is an open-air museum dedicated to the Renaissance. Discover its past with this free tour!",
+            "hashtags": "#Italy, #Florence,#Roma,#adventuretime",
+            "likes": 0,
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/fotos%20sitios%2FFlorencia.jpg?alt=media&token=2fff3088-e209-49eb-adc8-291ffb4d1f2e",
+            "origen": "Fontana de Trevi",
+            "transportation": "Transport by bus",
+            "placesToVisit": [
+                "La Piazza dei Miracoli",
+                "el Mercato Nuovo",
+                "El Palazzo Strozzi."
+            ],
+            "activities": {}
+        },
+        {
+            "city_id": "64b31b7982ab7a3c54de5af1",
+            "name": "The Vatican Museums and Sistine Chapel",
+            "collaborator": "Di Marco Diego",
+            "profilePic": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/personas%2FDi%20marco.jpg?alt=media&token=d9901475-3ea7-481e-97c2-3739515903ce",
+            "price":  4,
+            "description":"With this ticket you'll get access to the Sistine Chapel first thing in the morning, avoiding all the crowds. Then you can enjoy the other Vatican Museums at your leisure!",
+            "duration": "9 Hours",
+            "hashtags": "#Travel, #Life, #Museum, ",
+            "likes": 0,
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/fotos%20sitios%2Fmuseos-vaticanos.webp?alt=media&token=7c65b6a4-f2a2-4e31-a311-246b7e754d47",
+            "origen": "The basilica of San Lorenzo",
+            "transportation": "Transport by private car",
+            "placesToVisit":["The Pio Clementino Museum","the Gallery of Chandeliers", "the Gallery of Geographical Maps"],
+            "activities": {}
+        },
+        {
+            "city_id": "64a4aa652c8cb38c76726f9d",
+            "name": "Matyra Beach",
+            "collaborator": "Juan Ramirez",
+            "profilePic": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/personas%2Fusuario.jpeg?alt=media&token=002a3eda-319c-4316-94e2-57e4688a26eb",
+            "price": 2,
+            "duration": "4 hours",
+            "description":"Swim and enjoy the goodness of the beach, walk the beach, have a picnic and watch the sunsets",
+            "hashtags": "#beach #friends #family #sun",
+            "likes": 0,
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BORABORA%2Fitinerary%2FPlaya%20de%20Matira.jpg?alt=media&token=eea0b7c7-1633-4053-ab56-2158735eada1",
+            "origen": "Intercontinental Le Moana",
+            "transportation": "Transport by private car",
+            "placesToVisit":["Bora Bora Lagoonarium","Bora Bora Turtle Centre", "Mount Otemanu"],
+            "activities": {}
+    },
+    {
+        "city_id": "64a4aabc2c8cb38c76726fa6",
+            "name": "Blue Mountains Group Day Tour",
+            "collaborator": "Jane Willson",
+            "profilePic": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/personas%2Fusuario%202.jpg?alt=media&token=7175ad0c-def5-4fd6-8318-2cc943d78804",
+            "price":3,
+            "description":"Take a day trip from Sydney to the spectacular Blue Mountains, leaving the navigation and transportation to someone else. Immerse yourself in the scenery of the mountains and enjoy all the must-sees of the region",
+            "duration": "11 hours",
+            "hashtags": "#nature #mountain #peace #adventure",
+            "likes": 0,
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/SYDNEY%2Fitinerary%2FBlue%20Mountains.jpg?alt=media&token=a3ef4b40-3013-4045-881c-1a69dc0bb8dc",
+            "origen": "PARKROYAL Darling Harbour, Sydney, 150 Day St, Sydney NSW 2000, Australia",
+            "transportation": "Transport by bus",
+            "placesToVisit":["Sydney Opera House","Manly Beach", "White Rabbit Gallery"],
+            "activities": {}
         
-    ]
+    },
+    {
+        "city_id": "6498e442931a59b9c4c80aba",
+            "name": "Full-Day Taj Mahal and Agra Tour by Express Train from Delhi",
+            "collaborator": "Ronald Kane",
+            "profilePic": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/personas%2Fusuario%203.jpg?alt=media&token=22054e5a-2b93-4ba2-beaa-67318cf043a4",
+            "price": 4,
+            "description":"Agra's historical attractions are not limited to the Taj Mahal, a legendary Mughal landmark and one of the New Wonders of the World",
+            "duration": "12 hours",
+            "hashtags": "#history #culture #India",
+            "likes": 0,
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/INDIA%2Fitinerary%2FTaj%20Mahal.jpg?alt=media&token=673b36b8-3e78-4374-bcce-b42dd0008a27",
+            "origen": "Pickup and drop-off is available from any location or airport in Delhi, Noida, Gurgaon, Faridabad or Ghaziabad",
+            "transportation": "Transport by bus",
+             "placesToVisit":["Agra fort","Tomb of Itimad-ud-Daulah", "Jama Masjid"],
+             "activities": {}
+    },
+    {
+        "city_id": "64a4aabb2c8cb38c76726fa3",
+       
+        "name": "Historic Center of Cusco",
+            "collaborator": "Franco Torres",
+            "profilePic": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/personas%2Fusuario%204.jpeg?alt=media&token=62a22262-148a-43e7-9cd5-909c062684a1",
+            "price":1,
+            "description":"It occupies the same place as the Plaza Huacaypata (Quechua voice, moan, lament) that was drawn by Manco Cápac when he founded the city of Cusco in the 12th century, around it the royal palaces were built by the Inca kings",
+            "duration": "4 hours",
+            "hashtags": "#inca #history #ancestors ",
+            "likes": 0,
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/CUSCO%2Fitinerary%2Fcentro%20historico%20cusco.jpg?alt=media&token=d516d681-89bd-431e-8c74-afb0761cbfc6",
+            "origen": "Huacaypata Square",
+            "transportation": "Transport by bus",
+            "placesToVisit":["Full day excursion to Machu Picchu from Cusco","Rainbow Mountain with ATVs", "Classic Inca Trail Trek"],
+            "activities": {}
+        
+    },
+    {
+        "city_id": "64a4d839cd1231e06c058552",
+       
+            "name": "Zoo Zurich",
+            "collaborator": "Elba Morales",
+            "profilePic": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/personas%2Fusuario%205.jpeg?alt=media&token=9c1ce1c8-7392-4db5-8eaf-e46848ec990c",
+            "price": 2,
+            "description":"An ideal walk for the family and nature lovers, in which we can see various species in a controlled environment",
+            "duration": "3 hours",
+            "hashtags": "#animals #natural #love",
+            "likes": 0,
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/ZURICH%2Fitinerary%2Fzoo%20zurich.jpg?alt=media&token=a064d689-ec95-4d09-ba71-71c18db515fc",
+            "origen": "Zoo Zurich",
+            "transportation": "Transport by bus",
+            "placesToVisit":["Zurich Old Town Walking Tour","Swiss Alps Day Trips from Zurich: Jungfraujoch and Bernese Oberland", "Lindenhof Hill"],
+            "activities": {}
+        
+    },
+    {
+        "city_id": "64a4d838cd1231e06c058543",
+            "name": "Half-Day Private City Tour of Santiago",
+            "collaborator": "Karina Ramirez",
+            "profilePic": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/personas%2Fusuario%206.jpeg?alt=media&token=ecdb41c7-bb28-4757-aeaa-b8155f21fd7f",
+            "price": 3,
+            "description":"Enjoy the personalized attention of a private guide and get a taste of Santiago's atmosphere on this half-day tour that includes round-trip hotel transport",
+            "duration": "4 hours",
+            "hashtags": "#Santiagocity #travel #tour" ,
+            "likes": 0,
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/CHILE%2Fitinerary%2Fsantiago%20de%20chile.2.jpg?alt=media&token=8b8057d6-9776-4000-a027-bb4b67e7586b",
+            "origen": "Your accommodation in Santiago in the districts of Providencia, Las Condes (hotel area), Vitacura (hotel area) or Santiago Centro, or at another meeting point in those districts",
+            "transportation": "Transport by bus",
+            "placesToVisit":["Valle Nevado and Farellones Small-Group Tour from Santiago","Costanera Center", "Private Tour of Santiago and its Wines"],
+            "activities": {}
+    }
+    
+
+
+]
 }

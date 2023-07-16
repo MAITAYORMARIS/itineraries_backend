@@ -13,6 +13,7 @@ const itinerariesSchema = new mongoose.Schema({
     likes: {type:Number, required:true},
     image: {type:String, required:true},
     origen: {type:String, required:true},
+    transportation: {type:String, required:true},
     placesToVisit: {type:Array, required:true},
     activities:{type:Object, required:true}
 })
